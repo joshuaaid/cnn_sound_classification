@@ -1,5 +1,5 @@
 
-# Sound classification with CNN
+# Sound classification with CNN   
 
 I used the CNN model to classify sounds based on Urban Sound Dataset. 
 You can see two notebooks in the repo. 
