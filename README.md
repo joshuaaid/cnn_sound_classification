@@ -6,7 +6,7 @@ You can see two notebooks in the repo.
 The first repo contains preprocessing of sound files(for ex: creating spectrograms, reading and preprocessing the spectrograms, etc.). 
 The second repo covers the building model.
 
-This dataset contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10 classes:
+Urban Sound dataset contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10 classes:
 air_conditioner, car_horn, children_playing, dog_bark, drilling, enginge_idling, gun_shot, jackhammer, siren, and street_music. 
 
 
